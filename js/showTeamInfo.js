@@ -1,43 +1,43 @@
 var teamInfo = {
   "UOregon": {
     "name": "UOregon",
-    "reportID" : "000000",
+    "reportID" : "2BDD46OFORJL",
   },
   "ED-NAU": {
     "name": "ED_NAU",
-    "reportID" : "000001",
+    "reportID" : "5ZVN0HN1LMPB",
   },
   "OUC": {
     "name": "OUC",
-    "reportID" : "000002",
+    "reportID" : "44E5LULPN1VU",
   },
   "NEFU_China": {
     "name": "NEFU_China",
-    "reportID" : "000003",
+    "reportID" : "XG3JNZ434JRF",
   },
   "CSU_CHINA": {
     "name": "CSU_CHINA",
-    "reportID" : "000004",
+    "reportID" : "MPBMJLBNO8B8",
   },
   "OUC-Marine_Drugs": {
     "name": "OUC-Marine Drugs",
-    "reportID" : "000005",
+    "reportID" : "3BM0JCCUO84F",
   },
   "Vilnius_GMC": {
     "name": "Vilnius GMC",
-    "reportID" : "000006",
+    "reportID" : "VQWJNEADY85P",
   },
   "Edinburgh": {
     "name": "Edinburgh",
-    "reportID": "000007",
+    "reportID": "RR42DRZZINRH",
   },
   "CPU_CHINA_2021": {
     "name": "CPU_CHINA 2021",
-    "reportID" : "000008",
+    "reportID" : "55B9LYA2L7SD",
   },
   "Imperial": {
     "name": "Imperial",
-    "reportID" : "000009",
+    "reportID" : "Q8QU85D3KE69",
   },
 };
 
